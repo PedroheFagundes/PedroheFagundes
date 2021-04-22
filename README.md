@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/PedroheFagundes/PedroheFagundes/blob/main/header.png "Header")](https://some-url.dev/)
+[![Header](https://github.com/PedroheFagundes/PedroheFagundes/blob/main/header2.png "Header")](https://some-url.dev/)
 
 ### Hi there 👋
 
