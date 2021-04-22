@@ -6,8 +6,8 @@ I'm from Brazil and currently looking my first opportunity to show my skills.
 
 
 ## Git Hub Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroheFagundes&langs_count=8&theme=dark)](https://github.com/pedrohefagundes/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroheFagundes&count_private=true&show_icons=true&theme=dark)](https://github.com/pedrohefagundes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroheFagundes&langs_count=8&theme=dark)](https://github.com/pedrohefagundes?tab=repositories)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroheFagundes&count_private=true&show_icons=true&theme=dark)](https://github.com/pedrohefagundes?tab=repositories)
 
 
 
