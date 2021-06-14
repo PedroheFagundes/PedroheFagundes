@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/PedroheFagundes/PedroheFagundes/blob/main/header2.png "Header")](https://some-url.dev/)
+[![Header](https://github.com/PedroheFagundes/PedroheFagundes/blob/main/header.png "Header")](https://some-url.dev/)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Pedro Fagundes and I'm a web developer focused in back-end.  
 I'm from Brazil and currently looking my first opportunity to show my skills. 
