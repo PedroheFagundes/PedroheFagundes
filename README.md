@@ -10,6 +10,7 @@ You can find me on <a href="https://www.linkedin.com/in/pedrofagundes/" target="
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java_Script-informational?style=logoColor=white&color=2bbc8a)  
 ![](https://img.shields.io/badge/Tools-ReactJS-informational?style=logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-NodeJS-informational?style=logoColor=white&color=2bbc8a)  
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-ExpressJS-informational?style=logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-React_Redux-informational?style=logoColor=white&color=2bbc8a)  
 ![](https://img.shields.io/badge/Test-Jest-informational?style=logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Test-Enzyme-informational?style=logoColor=white&color=2bbc8a)  
 
 
